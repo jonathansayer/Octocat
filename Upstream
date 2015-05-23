@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words. 
+An upstream remote is used to connect the online github repo with the lacal repos on a laptop or local computer. The term "upstream" refers to the repo which has been copied or cloned which will allow other developers to work with the changes that you have made. In contrast the act of copying or cloning the repo is a downstream act (information flowing down to you).  

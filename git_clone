@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words. 
+Git clone does pretty much what you would expect. The clone commmand will copy a repo from github into your local git repo. Git clone will create dir, go into the dir, initialize git, create a remote and the pull the files from git and finally move back to the parent dir.   

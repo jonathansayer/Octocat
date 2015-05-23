@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words.
+Branching is used when making changes to a repo that the user has write access to. By creating a branch, the user can make changes to a file or a repo and will always be able to refer back to the original. The user can make any number of branches, each containing different changes or additions. Branches can be merged if the changes do not contradict. If they do the branches can be modified so that there is no conflict.  
